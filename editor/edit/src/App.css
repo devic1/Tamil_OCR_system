@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+
+.read-only {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}

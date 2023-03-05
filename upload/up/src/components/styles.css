@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.crop-container {
+  position: absolute;
+  top: 0;
+  left: 25%;
+  margin-top: 10%;
+  bottom: 80px;
+  width: 500px; /* Set the width of your container */
+  height: 300px; /* Set the height of your container */
+  overflow: hidden;
+}
+
+button {
+  position: relative;
+  margin-top: 40%;
+}

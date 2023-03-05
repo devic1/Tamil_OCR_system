@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+.imgpr-con {
+  width: 300px; /* Set the width of your container */
+  height: 300px; /* Set the height of your container */
+  overflow: hidden; /* Clip the image that exceeds the container */
+}
+
+.imgpr-con img {
+  width: 100%; /* Set the image width to 100% of the container */
+  height: 100%; /* Set the image height to 100% of the container */
+  object-fit: contain; /* Fit the image inside the container by cropping it */
+}
+
+.controls {
+  margin-top: 10px;
+}
+
+.preview {
+  margin-top: 20px;
+  text-align: center;
+}
