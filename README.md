@@ -1,0 +1,2 @@
+# Tamil-Devic
+Tamil ocr
